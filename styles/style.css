@@ -1,0 +1,10 @@
+.nav-text{
+    text-align: right;
+}
+.navbar-nav{
+    margin-left: auto;
+    font-weight: 600;
+}
+.navbar-nav li a{
+    color: rgb(8, 8, 44) !important;
+}
